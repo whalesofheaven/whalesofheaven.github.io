@@ -4,7 +4,7 @@ description: 'exploring the intersection of everyday life and faith'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'demowebsite'
+disqus: ''
 email: 'whalesofheaven@gmail.com'
 mailchimp-list: '' #'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
@@ -19,21 +19,37 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+    elijah:
+      name:           Elijah
+      site:           https://sites.google.com/view/elijahslee
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Bio"
+      email:          elijahslee@gmail.com
+      twitter:        https://twitter.com/whalesofheaven
 
-    jane:
-      name:           Jane
+    paul:
+      name:           Paul
+      site:           https://whalesofheaven.com
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Bio"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/whalesofheaven
+    
+    kevin:
+      name:           Kevin
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      bio:            "Bio"
       email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://twitter.com/whalesofheaven
+    
+    harang:
+      name:           harang
+      site:           https://harangju.com
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Hi, I'm Harang."
+      email:          harangju@gmail.com
+      twitter:        https://twitter.com/harangju
  
 # Defaults
 defaults:
