@@ -22,7 +22,7 @@ authors:
     elijah:
       name:           Elijah
       site:           https://sites.google.com/view/elijahslee
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "Bio"
       email:          elijahslee@gmail.com
       twitter:        https://twitter.com/whalesofheaven
@@ -30,7 +30,7 @@ authors:
     paul:
       name:           Paul
       site:           https://whalesofheaven.com
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         assets/images/avatar2.jpg
       bio:            "Bio"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/whalesofheaven
@@ -38,7 +38,7 @@ authors:
     kevin:
       name:           Kevin
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         assets/images/avatar2.jpg
       bio:            "Bio"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/whalesofheaven
@@ -46,7 +46,7 @@ authors:
     harang:
       name:           harang
       site:           https://harangju.com
-      avatar:         /assets/images/harang.jpg
+      avatar:         assets/images/harang.jpg
       bio:            "Hi, I'm Harang."
       email:          harangju@gmail.com
       twitter:        https://twitter.com/harangju
