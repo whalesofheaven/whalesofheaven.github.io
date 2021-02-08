@@ -22,24 +22,24 @@ authors:
     elijah:
       name:           Elijah
       site:           https://sites.google.com/view/elijahslee
-      avatar:         assets/images/avatar1.jpg
-      bio:            "Bio"
+      avatar:         assets/images/elijah.jpeg
+      bio:            "Hi, I'm Elijah, and I like drones."
       email:          elijahslee@gmail.com
       twitter:        https://twitter.com/whalesofheaven
 
     paul:
       name:           Paul
       site:           https://whalesofheaven.com
-      avatar:         assets/images/avatar2.jpg
-      bio:            "Bio"
+      avatar:         assets/images/paul.jpeg
+      bio:            "Hi, I'm Paul, and I like to play soccer."
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/whalesofheaven
     
     kevin:
       name:           Kevin
       site:           https://www.wowthemes.net
-      avatar:         assets/images/avatar2.jpg
-      bio:            "Bio"
+      avatar:         assets/images/kevin.jpeg
+      bio:            "Hi, I'm Kevin, and I cure blindness."
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/whalesofheaven
     
