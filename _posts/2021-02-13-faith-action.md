@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "faith, the seed of action"
+title:  "Faith, the seed of action"
 author: harang
 categories: [ faith ]
 image: assets/images/maddi-bazzocco-UhrHTmVBzzE-unsplash.jpg
 tags: [featured]
 ---
 <blockquote style="text-align: justify;">  
-  14 What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him?
-  21 Was not Abraham our father justified by works when he offered up his son Isaac on the altar? 22 You see that faith was active along with his works, and faith was completed by his works;
-  <div style="text-align: right;">James 2 ESV</div>
+  What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him?... Was not Abraham our father justified by works when he offered up his son Isaac on the altar? You see that faith was active along with his works, and faith was completed by his works
+  <div style="text-align: right;">James 2:14,21-22 ESV</div>
 </blockquote>
 
 "Do you believe in God?" is a question that both Christians and non-Christians ask each other alike. Having been asked that question and having seen that question asked to others, I know that it can be a difficult question to answer. It can be even more difficult for people who are just coming to faith but no less important for long-time Christians. And it is difficult because we see ourselves sometimes acting in ways that contradict the belief in God. That is, if I *really* believed in God, would I have done that thing that I am terribly ashamed of?
