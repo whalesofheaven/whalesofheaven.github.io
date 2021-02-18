@@ -2,6 +2,7 @@
 name: 'Whales of Heaven'
 description: 'exploring the intersection of everyday life and faith'
 logo: 'assets/images/icon.png'
+logo-og: 'assets/images/icon-og.png'
 favicon: 'assets/images/icon.png'
 baseurl: ''
 disqus: ''
