@@ -1,8 +1,8 @@
 # Site
 name: 'Whales of Heaven'
 description: 'exploring the intersection of everyday life and faith'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/icon.png'
+favicon: 'assets/images/icon.png'
 baseurl: ''
 disqus: ''
 email: 'whalesofheaven@gmail.com'
