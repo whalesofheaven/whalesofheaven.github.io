@@ -7,7 +7,7 @@ favicon: 'assets/images/icon.png'
 baseurl: ''
 disqus: ''
 email: 'whalesofheaven@gmail.com'
-mailchimp-list: '' #'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://whalesofheaven.us1.list-manage.com/subscribe/post?u=b7e34bf4ae83abc87f01b2127&amp;id=9464ef67f8'
 formspree: mwkwzagj
 
 include: ["_pages"]
