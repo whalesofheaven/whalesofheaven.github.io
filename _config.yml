@@ -14,8 +14,7 @@ include: ["_pages"]
 permalink: /:title/
 
 collections:
-  mannas:
-    sort_by: date
+  - mannas
 
 # Plugins
 plugins:

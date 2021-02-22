@@ -16,7 +16,8 @@ pagination:
     </blockquote>
   </div>
 
-{% for manna in site.mannas %}
+{% assign sorted_mannas = site.mannas | reverse %}
+{% for manna in sorted_mannas %}
   <div class="row p-2">
     <div class="col-lg-2">
       <h5>{{ manna.title }}</h5>
