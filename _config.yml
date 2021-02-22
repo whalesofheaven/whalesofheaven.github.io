@@ -13,13 +13,18 @@ formspree: mwkwzagj
 include: ["_pages"]
 permalink: /:title/
 
+collections:
+  mannas:
+    output: true
+    sort_by: date
+
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
+
 authors:
     elijah:
       name:           Elijah
@@ -36,7 +41,7 @@ authors:
       bio:            "Hi, I'm Paul, and I like to play soccer."
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/whalesofheaven
-    
+
     kevin:
       name:           Kevin
       site:           https://www.wowthemes.net
@@ -44,7 +49,7 @@ authors:
       bio:            "Hi, I'm Kevin, and I cure blindness."
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/whalesofheaven
-    
+
     harang:
       name:           harang
       site:           https://harangju.com
@@ -52,7 +57,7 @@ authors:
       bio:            "Hi, I'm Harang."
       email:          harangju@gmail.com
       twitter:        https://twitter.com/harangju
- 
+
 # Defaults
 defaults:
 
@@ -63,13 +68,13 @@ defaults:
       layout: post
       author: sal
       avatar: /assets/images/avatar1.jpg
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge

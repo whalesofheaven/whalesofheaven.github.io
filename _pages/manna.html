@@ -1,0 +1,26 @@
+---
+title: "Daily Manna"
+description: "It is the bread that the LORD has given you to eat. - Exodus 16:15"
+permalink: "/manna.html"
+layout: page
+pagination:
+    enabled: true
+---
+
+<div class="container">
+
+{% for manna in site.mannas %}
+  <div class="row">
+    <div class="col-lg-2">
+      <h5><a href="{{ manna.url }}">{{ manna.title }}</a></h5>
+      <p>
+        {{ manna.date | date: '%B %d, %Y' }}
+      </p>
+    </div>
+    <div class="col-lg-10">
+      {{ manna.content | markdownify }}
+    </div>
+  </div>
+{% endfor %}
+
+</div>
