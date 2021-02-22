@@ -15,7 +15,6 @@ permalink: /:title/
 
 collections:
   mannas:
-    output: true
     sort_by: date
 
 # Plugins

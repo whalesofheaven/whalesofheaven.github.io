@@ -1,6 +1,5 @@
 ---
 title: "Daily Manna"
-description: "It is the bread that the LORD has given you to eat. - Exodus 16:15"
 permalink: "/manna.html"
 layout: page
 pagination:
@@ -9,10 +8,18 @@ pagination:
 
 <div class="container">
 
+  <div class="page-content">
+    <blockquote style="text-align: center; font-size: 20px; font-family:Lora;">
+      It is the bread that the LORD has given you to eat.
+      <br>
+      Exodus 16:15
+    </blockquote>
+  </div>
+
 {% for manna in site.mannas %}
-  <div class="row">
+  <div class="row p-2">
     <div class="col-lg-2">
-      <h5><a href="{{ manna.url }}">{{ manna.title }}</a></h5>
+      <h5>{{ manna.title }}</h5>
       <p>
         {{ manna.date | date: '%B %d, %Y' }}
       </p>
