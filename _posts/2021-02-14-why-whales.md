@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Whales of Heaven?"
 author: harang
-categories: [ whales ]
+categories: [ update ]
 image: assets/images/cameron-venti-3rabTGLccwc-unsplash.jpg
 tags: [sticky]
 ---
