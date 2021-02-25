@@ -2,7 +2,7 @@
 layout: post
 title:  "Faith, the seed of action"
 author: harang
-categories: [ faith ]
+categories: [ general ]
 image: assets/images/maddi-bazzocco-UhrHTmVBzzE-unsplash.jpg
 tags: [featured]
 ---
