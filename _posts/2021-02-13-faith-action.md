@@ -1,17 +1,18 @@
 ---
 layout: post
-title:  "Faith, the seed of action"
+title:  "Faith & actions"
 author: harang
 categories: [ general ]
 image: assets/images/maddi-bazzocco-UhrHTmVBzzE-unsplash.jpg
 tags: [featured]
 ---
+
+"Do you believe in God?" is a question that both Christians and non-Christians ask each other alike. Having been asked that question and having seen that question asked to others, I know that it can be a difficult question to answer. It can be even more difficult for people who are just coming to faith but no less important for long-time Christians. And it is difficult because we see ourselves sometimes acting in ways that contradict the belief in God. That is, if I *really* believed in God, would I have done that thing that I am terribly ashamed of?
+
 <blockquote style="text-align: justify;">  
   What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him?... Was not Abraham our father justified by works when he offered up his son Isaac on the altar? You see that faith was active along with his works, and faith was completed by his works
   <div style="text-align: right;">James 2:14,21-22 ESV</div>
 </blockquote>
-
-"Do you believe in God?" is a question that both Christians and non-Christians ask each other alike. Having been asked that question and having seen that question asked to others, I know that it can be a difficult question to answer. It can be even more difficult for people who are just coming to faith but no less important for long-time Christians. And it is difficult because we see ourselves sometimes acting in ways that contradict the belief in God. That is, if I *really* believed in God, would I have done that thing that I am terribly ashamed of?
 
 Perhaps a more reasonable answer to the question is not black-and-white, yes-or-no, faith-or-no-faith. For new and "older" Christians alike (and even for non-Christians), it may be more useful and closer to the truth to think about **belief as a spectrum, one that shapes your actions**. For newer Christians, this perspective acknowledges that they can have faith, however small, that they can grow. For "older" Christians, it motivates them to manifest their faith in their actions and grow their faith even further. And for non-Christians, perhaps this perspective motivates them to think about the latent beliefs that guide their own actions.
 
