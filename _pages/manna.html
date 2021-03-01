@@ -19,13 +19,13 @@ pagination:
 {% assign sorted_mannas = site.mannas | reverse %}
 {% for manna in sorted_mannas %}
   <div class="row p-2">
-    <div class="col-lg-2">
+    <div class="col-lg-3">
       <h5>{{ manna.title }}</h5>
       <p>
         {{ manna.date | date: '%B %d, %Y' }}
       </p>
     </div>
-    <div class="col-lg-10">
+    <div class="col-lg-9">
       {{ manna.content | markdownify }}
     </div>
   </div>
