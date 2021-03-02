@@ -1,0 +1,23 @@
+---
+title: "Newsletters"
+permalink: "/newsletters.html"
+layout: page
+pagination:
+    enabled: true
+---
+
+<div class="container">
+
+<ul>
+  {% assign sorted_newsletters = site.newsletters | reverse %}
+  {% for newsletter in sorted_newsletters %}
+  <li>
+    <a href="{{ newsletter.url }}">
+      <h5>{{ newsletter.title }}</h5>
+      <p>{{ newsletter.date | date: '%B %d, %Y' }}</p>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+
+</div>

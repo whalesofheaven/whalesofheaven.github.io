@@ -14,7 +14,9 @@ include: ["_pages"]
 permalink: /:title/
 
 collections:
-  - mannas
+  mannas:
+  newsletters:
+    output: True
 
 # Plugins
 plugins:
