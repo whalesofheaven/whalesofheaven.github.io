@@ -1,6 +1,6 @@
 ---
 title: "Daily Manna"
-permalink: "/manna.html"
+permalink: "/manna"
 layout: page
 pagination:
     enabled: true
@@ -20,7 +20,9 @@ pagination:
 {% for manna in sorted_mannas %}
   <div class="row p-2">
     <div class="col-lg-3">
-      <h5>{{ manna.title }}</h5>
+      <a href="{{ manna.url }}">
+        <h5>{{ manna.title }}</h5>
+      </a>
       <p>
         {{ manna.date | date: '%B %d, %Y' }}
       </p>

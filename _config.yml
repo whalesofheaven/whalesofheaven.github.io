@@ -15,6 +15,7 @@ permalink: /:title/
 
 collections:
   mannas:
+    output: True
   newsletters:
     output: True
 
