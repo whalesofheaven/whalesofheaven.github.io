@@ -1,8 +1,24 @@
 ---
 title: "Podcast"
-layout: page
+layout: podcast
 permalink: "/podcast.html"
-image: 
+image:
 ---
 
-Podcast coming soon!
+<div class="container">
+
+{% assign sorted_podcasts = site.podcasts | reverse %}
+{% for podcast in sorted_podcasts %}
+<a href="{{ podcast.url }}">
+  <div class="row p-2">
+    <div class="col-lg-4">
+      <h5>{{ podcast.title }}</h5>
+    </div>
+    <div class="col-lg-8">
+      {{ podcast.content | truncate: 100 }}
+    </div>
+  </div>
+</a>
+{% endfor %}
+
+</div>

@@ -18,6 +18,8 @@ collections:
     output: True
   newsletters:
     output: True
+  podcasts:
+    output: True
 
 # Plugins
 plugins:
