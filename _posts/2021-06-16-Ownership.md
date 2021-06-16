@@ -3,7 +3,7 @@ layout: post
 title:  "소유권"
 author: Paul
 categories: [ general ]
-image: assets/images/.jen-theodore-CiMITAJtb6I-unsplash.jpg
+image: assets/images/jen-theodore-CiMITAJtb6I-unsplash.jpeg
 tags: [featured]
 ---
 
