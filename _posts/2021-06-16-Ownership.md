@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "소유권"
-author: Paul
+author: paul
 categories: [ general ]
 image: assets/images/tierra-mallorca-rgJ1J8SDEAY-unsplash.jpeg
 tags: [featured]
